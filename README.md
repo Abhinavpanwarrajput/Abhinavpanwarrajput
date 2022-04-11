@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhinavpanwarrajput
 - 👀 I’m interested to learn new programming language
-- 🌱 I’m currently pursuing B.tech (CSE) department
+- 🌱 I’m currently pursuing B.tech (CS - IT) department
 - 📫 How to reach me you can use our webpage
 
 <!---
