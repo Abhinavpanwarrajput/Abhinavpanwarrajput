@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhinavpanwarrajput
 - 👀 I’m interested to learn new programming language
 - 🌱 I’m currently pursuing B.tech (CS - IT) department
-- 📫 How to reach me you can use our webpage
+- 📫 rebrand.ly/aboutAbhinav
 
 <!---
 Abhinavpanwarrajput/Abhinavpanwarrajput is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
